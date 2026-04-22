@@ -1,0 +1,78 @@
+22-04-2026 Second Day HTML 
+Today covered Major tags like head, title, body, h1-h6, <p>, <br>, <em>, ul, ol, li, img, <a> etc.
+Assignment : Bio-Data
+
+21-04-2026 GalTech Class Started. 
+ • @8.30uae time, 1 hour class started with Mr.Sham Lal.  Introduction to MERN STACK with a Python BackEnd Discussed.
+ • asked to go through html tags like h1,h2, Paragraph etc.
+ • practiced html, css and installed Git and connected with GitHub/vpsalil using google signin
+ • GitHub commands
+	Set Username: git config --global user.name "Your Name"
+	Set Email   : git config --global user.email "you@example.com"
+	Set Default Editor:git config --global core.editor "code --wait" (for Visual Studio Code)
+	Set Default Branch: git config --global init.defaultBranch main
+	git init
+	git clone <url>
+	git status
+	git add .
+	git commit -m "message"
+	git push : push to remote
+	git pull : pull from remote
+	git branch : list of branches
+	git switch -c <name> : create and switch to the new branch
+	git switch <name> : switch to the branch
+	git merge <branch> : merge from the branch to the current branch
+	git restore <file> : restore file
+	git reset --hard : reset to the last committed 
+	git revert <commit-id> : reset to the commit-id
+
+
+21-04-2026 Tutorial Details - GalTech
+ • Main stream : MERN Stack 
+ • Additional requirements discussed : html, css and react as front end.   Python as BackEnd.  Database management, hosting,  Web Security, User Control/Roles and Finally ERP Solution.
+ • Duration : 3 months + 1 month Internship
+ • fee : Rs.35,000.00 (Adv paid Rs.10,000.00)
+
+17-04-2026
+
+How to run the project in Visual Studio Code : 
+
+♦ Open visual code
+♦ View Terminal
+♦ Confirm the required directory is open in Terminal.
+♦ Type npm start in terminal.
+♦ Open chrome and type localhost:3000 for user Page
+♦ localhost:3000/admin for admin panel
+
+e-commercial Project by Brotype:  
+Dir : D:\My Documents\My Web Sites\20240929_Web_Development\Project07_2_ShoppingCart
+user login : sam@gmail.com Pw: 123
+
+
+History:
+18/10/2024 Serious Learning started
+
+♦ Installed Visual Code and Node.Js : for starting a project in node express.
+(node js path to include in Settings Environment variables)
+♦ Installed npx express-generator --hbs (this install express framework and provide a new proj directory)
+♦ npm install : for importing and running modules
+♦ npm install nodemon : to run server without restart // to start : npx nodemon
+
+-----------------------------
+♦ npm install readline-sync : for input values // for calling in program: var read=require ('readline-sync')
+
+31/10/2024 Entering to Sample shopping cart project
+NPM Modules installed fileUpload, bCrypt, etc.
+
+All the above installation (except readline-sync) completed.
+-----------------------------
+♦ VSCode default directory change:  
+file>preferences>settings
+(select webspace tab and search for terminal>Integrated:Cwd)
+give the new directory and save
+try after exit the current session (exit from terminal is very important)
+
+♦ Backup note:
+24-11-2024: "Project07_0_ShoppingCart" - till Session/cookies 7.2
+29-11-2024: "Project07_1_ShoppingCart" - till Middleware : Verify Login - Edit and Delete Buttons added.. but link not given
+17/04/2026: "Project07_2_ShoppingCart: - for new experiments.  Need User and Admin login and activity control, cart option.
