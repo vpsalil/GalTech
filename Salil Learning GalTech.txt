@@ -14,9 +14,9 @@ Assignment : Bio-Data - prepared and sent.
 	git init
 	git clone <url>
 	git status
-	git add .
-	git commit -m "message"
-	git push : push to remote
+	git add . : to add all files and its changes to git
+	git commit -m "Title message" -m "detailed message" 
+	git push origin <branch-name> : push to remote
 	git pull : pull from remote
 	git branch : list of branches
 	git switch -c <name> : create and switch to the new branch
