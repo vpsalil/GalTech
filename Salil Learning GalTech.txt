@@ -1,9 +1,14 @@
+28-04-2026 Tables and its attributes
+27-04-2026 CSS started: inline, internal, external
+24-04-2026 Syam Lal Leave - Assignment - 04 My Web
+23-04-2026 Syam Lal Leave - Assignment - 03 Vegetables and Fruits
+
 22-04-2026 Second Day HTML 
 Today covered Major tags like head, title, body, h1-h6, <p>, <br>, <em>, ul, ol, li, img, <a> etc.
 Assignment : Bio-Data - prepared and sent.
 
 21-04-2026 GalTech Class Started. 
- • @8.30uae time, 1 hour class started with Mr.Sham Lal.  Introduction to MERN STACK with a Python BackEnd Discussed.
+ • @8.30uae time, 1 hour class started with Mr.Syam Lal.  Introduction to MERN STACK with a Python BackEnd Discussed.
  • asked to go through html tags like h1,h2, Paragraph etc.
  • practiced html, css and installed Git and connected with GitHub/vpsalil using google signin
  • GitHub commands
@@ -27,7 +32,7 @@ Assignment : Bio-Data - prepared and sent.
 	git revert <commit-id> : reset to the commit-id
 
 
-21-04-2026 Tutorial Details - GalTech
+20-04-2026 Tutorial Details - GalTech
  • Main stream : MERN Stack 
  • Additional requirements discussed : html, css and react as front end.   Python as BackEnd.  Database management, hosting,  Web Security, User Control/Roles and Finally ERP Solution.
  • Duration : 3 months + 1 month Internship

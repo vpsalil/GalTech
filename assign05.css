@@ -1,0 +1,9 @@
+h1, h2 {color: #A31B00;}
+body{background-color: #FFC3B8;}
+p {color: #470C00;}
+.class1 { padding: 20px; background-color: #FF775C; color: #FFC3B8;}
+.class2 {background-color: #470C00;color: #FF775C;text-align: center;}
+.class3 {text-align: justify;}
+.container { display:flex;}
+.box {flex: 1; padding: 2%;}
+img{display: block; margin-left: auto;margin-right: auto;}
